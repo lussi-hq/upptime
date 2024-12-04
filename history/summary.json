@@ -16,26 +16,46 @@
     "timeMonth": 1144,
     "timeYear": 1144,
     "dailyMinutesDown": {
-      "2024-12-04": 517,
+      "2024-12-04": 520,
       "2024-12-03": 720
     }
   },
   {
     "name": "243 Technologies website",
-    "url": "https://243technologieeeeees.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/243technologieeeeees.com.ico",
+    "url": "https://243technologies.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/243technologies.com.ico",
     "slug": "243-technologies-website",
+    "status": "up",
+    "uptime": "76.13%",
+    "uptimeDay": "76.13%",
+    "uptimeWeek": "76.13%",
+    "uptimeMonth": "76.13%",
+    "uptimeYear": "76.13%",
+    "time": 165,
+    "timeDay": 165,
+    "timeWeek": 165,
+    "timeMonth": 165,
+    "timeYear": 165,
+    "dailyMinutesDown": {
+      "2024-12-04": 4
+    }
+  },
+  {
+    "name": "Kongo mines website",
+    "url": "http://kongo-mines.org/",
+    "icon": "https://icons.duckduckgo.com/ip3/kongo-mines.org.ico",
+    "slug": "kongo-mines-website",
     "status": "down",
-    "uptime": "98.38%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "98.38%",
-    "uptimeYear": "98.38%",
-    "time": 206,
-    "timeDay": 206,
-    "timeWeek": 206,
-    "timeMonth": 206,
-    "timeYear": 206,
+    "uptime": "2.96%",
+    "uptimeDay": "2.96%",
+    "uptimeWeek": "2.96%",
+    "uptimeMonth": "2.96%",
+    "uptimeYear": "2.96%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {
       "2024-12-04": 0
     }
