@@ -10,14 +10,32 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 832,
-    "timeDay": 832,
-    "timeWeek": 832,
-    "timeMonth": 832,
-    "timeYear": 832,
+    "time": 1154,
+    "timeDay": 1154,
+    "timeWeek": 1154,
+    "timeMonth": 1154,
+    "timeYear": 1154,
     "dailyMinutesDown": {
-      "2024-12-04": 110,
+      "2024-12-04": 505,
       "2024-12-03": 720
     }
+  },
+  {
+    "name": "243 Technologies website",
+    "url": "https://243technologies.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/243technologies.com.ico",
+    "slug": "243-technologies-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 206,
+    "timeDay": 206,
+    "timeWeek": 206,
+    "timeMonth": 206,
+    "timeYear": 206,
+    "dailyMinutesDown": {}
   }
 ]
