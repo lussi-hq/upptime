@@ -10,13 +10,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1790,
-    "timeDay": 1265,
-    "timeWeek": 1790,
-    "timeMonth": 1790,
-    "timeYear": 1790,
+    "time": 1619,
+    "timeDay": 597,
+    "timeWeek": 1619,
+    "timeMonth": 1619,
+    "timeYear": 1619,
     "dailyMinutesDown": {
-      "2024-12-06": 109,
+      "2024-12-07": 108,
+      "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 720
@@ -28,16 +29,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/243technologies.com.ico",
     "slug": "243-technologies-website",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 158,
-    "timeDay": 103,
-    "timeWeek": 158,
-    "timeMonth": 158,
-    "timeYear": 158,
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 146,
+    "timeDay": 100,
+    "timeWeek": 146,
+    "timeMonth": 146,
+    "timeYear": 146,
     "dailyMinutesDown": {
       "2024-12-04": 4
     }
@@ -59,7 +60,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-06": 109,
+      "2024-12-07": 108,
+      "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 920
     }
