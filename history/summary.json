@@ -4,17 +4,17 @@
     "url": "https://lussi.pro",
     "icon": "https://icons.duckduckgo.com/ip3/lussi.pro.ico",
     "slug": "lussi-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1400,
-    "timeDay": 939,
-    "timeWeek": 1179,
-    "timeMonth": 1647,
-    "timeYear": 1400,
+    "time": 1393,
+    "timeDay": 666,
+    "timeWeek": 921,
+    "timeMonth": 1599,
+    "timeYear": 1393,
     "dailyMinutesDown": {
       "2025-05-05": 10
     }
