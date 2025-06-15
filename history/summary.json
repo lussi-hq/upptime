@@ -5,17 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lussi.pro.ico",
     "slug": "lussi-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 1393,
     "timeDay": 666,
     "timeWeek": 921,
     "timeMonth": 1599,
     "timeYear": 1393,
     "dailyMinutesDown": {
+      "2025-06-15": 11,
       "2025-05-05": 10
     }
   }
